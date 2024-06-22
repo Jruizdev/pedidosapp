@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/pedidosapp/static/css/main.cbc512fe.css",
-    "main.js": "/pedidosapp/static/js/main.89595349.js",
+    "main.js": "/pedidosapp/static/js/main.bc36aaad.js",
     "static/js/453.3937fc99.chunk.js": "/pedidosapp/static/js/453.3937fc99.chunk.js",
     "index.html": "/pedidosapp/index.html",
     "main.cbc512fe.css.map": "/pedidosapp/static/css/main.cbc512fe.css.map",
-    "main.89595349.js.map": "/pedidosapp/static/js/main.89595349.js.map",
+    "main.bc36aaad.js.map": "/pedidosapp/static/js/main.bc36aaad.js.map",
     "453.3937fc99.chunk.js.map": "/pedidosapp/static/js/453.3937fc99.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.cbc512fe.css",
-    "static/js/main.89595349.js"
+    "static/js/main.bc36aaad.js"
   ]
 }
